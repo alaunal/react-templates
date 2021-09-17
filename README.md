@@ -1,8 +1,8 @@
-# React Boilerplate
-**React Boilerplate** is a starter kit tool that makes it easy for developers, especially frontend web developers, to start their projects from scratch using the React Js library. This tool is already packed with plugins or other libraries which are generally used by React JavaScript developers.
+# React Templates
+**React Templates** is a starter kit tool that makes it easy for developers, especially frontend web developers, to start their projects from scratch using the React Js library. This tool is already packed with plugins or other libraries which are generally used by React JavaScript developers.
 
 ## Features
-The main features of the **React Boilerplate** include:
+The main features of the **React Templates** include:
 
 1. **React starter kit**
 	 - [CRA](https://create-react-app.dev/ "https://create-react-app.dev/") (create-react-app)
@@ -12,7 +12,6 @@ The main features of the **React Boilerplate** include:
 	-   [Redux](https://redux.js.org/docs/introduction/) a Predictable State Container for JS Apps
 	-   Redux Wrapper:  [Rematch](https://github.com/rematch/rematch) is Redux best practices without the boilerplate
 4. **UI Toolkit & Styling** 
-	- [Asphalt React](https://asphalt.pages.golabs.io/asphalt-react/ "https://asphalt.pages.golabs.io/asphalt-react/"), Asphalt React helps developers to avoid recreating interfaces and accelerate product development.
 	- [Twin.macro](https://github.com/ben-rogerson/twin.macro "https://github.com/ben-rogerson/twin.macro"), Twin blends the magic of Tailwind with the flexibility of css-in-js.
 	- [Styled-components](https://styled-components.com/ "https://styled-components.com/"), Visual primitives for the component age
 5. **Utilities and other tools**
@@ -38,7 +37,7 @@ let's start using the React Starter project by following the steps below.
 
 1. **Clone Repo** Make sure you have a **React boilerplate** clone repository.
 	```
-	git@source.golabs.io:gojek-web/react-boilerplate.git
+	https://github.com/alaunal/react-templates.git
 	```
 2. **Setup git config**
 	```
