@@ -1,15 +1,15 @@
 import React from 'react';
+import { BsGithub } from 'react-icons/bs';
 
 import { WrapperHeader, NavMenu, MenuItem, ContentHeader } from './styles';
 
-const Header = props => {
+const Header = () => {
 
     return(
         <WrapperHeader>
             <ContentHeader>
                 <NavMenu>
-                    <MenuItem>v1.0.1</MenuItem>
-                    <MenuItem href="/">Gitlab</MenuItem>
+                    <MenuItem href="https://github.com/alaunal/" target="_blank"><BsGithub /> alaunal</MenuItem>
                 </NavMenu>
             </ContentHeader>
         </WrapperHeader>
